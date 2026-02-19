@@ -1,0 +1,8 @@
+{
+  "name": "NAIDERCASH - International Finance",
+  "description": "A high-end international finance platform providing virtual/physical cards and seamless international transfers with AI-powered financial assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
